@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CalculatorInterview/bin/Debug/net6.0
+/CalculatorInterview/obj
+/CalculatorInterview.BLL/bin/Debug/net6.0
+/CalculatorInterview.BLL/obj
+/CalculatorInterview.BLL.Abstraction/bin/Debug/net6.0
+/CalculatorInterview.BLL.Abstraction/obj
+/CalculatorInterview.DataAccess/bin/Debug/net6.0
+/CalculatorInterview.DataAccess/obj
+/CalculatorInterview.Web.Dto/bin/Debug/net6.0
+/CalculatorInterview.Web.Dto/obj
