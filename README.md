@@ -12,7 +12,7 @@ It is an interview project.
 
 ## Description
 
-Write a backend application in Node.js, Java, or .NET Core to solve an algorithmic problem
+Write a backend application in .NET Core to solve an algorithmic problem
 and retrieve earlier solutions via an API.
 The algorithm's input is an n-long integer array, and the output is also an n-long integer
 array, where the element with index i is equal to the product of the input array except the
